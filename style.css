@@ -1,3 +1,28 @@
 body {
 
 }
+
+header {
+background-color: rgb(255, 136, 0);
+}
+
+.divarticle{
+ margin-left: 10%;
+ margin-right: 30%;
+}
+
+.nav-content {
+margin-right: 5%;
+}
+
+
+nav {
+  background-color:rgb(132, 0, 255);
+  float: left;
+  border: 5%
+}
+
+aside {
+  float: right; 
+   background-color: rgb(255, 0, 191);
+}
